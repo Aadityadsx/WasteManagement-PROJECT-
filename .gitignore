@@ -36,3 +36,14 @@ Thumbs.db
 
 # User-uploaded complaint photos
 Uploads/Complaints/
+
+# Environment and secret files
+.env
+.env.*
+
+# Local database files
+*.mdf
+*.ldf
+
+# User-uploaded complaint photos
+Uploads/Complaints/
